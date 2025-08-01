@@ -17,7 +17,7 @@ Desktop preview:
 <img width="950" height="436" alt="Preview" src="https://github.com/user-attachments/assets/fe20d3ae-7615-448f-9a2d-faf42af7a629" />
 <img width="525" height="418" alt="Preview" src="https://github.com/user-attachments/assets/bd863151-1877-4abc-90cd-e5f62a5b0ecd" />
 
-
+The preview only shows a part of the website and not the full website.
 
 
 
