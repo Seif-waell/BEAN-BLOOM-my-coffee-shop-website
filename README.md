@@ -6,10 +6,14 @@ Welcome to **Bean & Bloom**, a cozy and responsive coffee shop website built wit
 
 ##  Preview
 Mobile preview:
+
 <img width="306" height="383" alt="Mobile preview" src="https://github.com/user-attachments/assets/46930a00-ff04-450b-bf9b-f8831f18c822" />
 <img width="302" height="377" alt="Mobile preview" src="https://github.com/user-attachments/assets/671a9f10-2f1b-4390-8952-51fd246287b5" />
+<img width="303" height="377" alt="Mobile Navbar" src="https://github.com/user-attachments/assets/6c4a35e5-9c4f-47a5-b1c2-a6d8b24b7026" />
+
 
 Desktop preview:
+
 <img width="950" height="436" alt="Preview" src="https://github.com/user-attachments/assets/fe20d3ae-7615-448f-9a2d-faf42af7a629" />
 <img width="525" height="418" alt="Preview" src="https://github.com/user-attachments/assets/bd863151-1877-4abc-90cd-e5f62a5b0ecd" />
 
